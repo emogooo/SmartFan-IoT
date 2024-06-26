@@ -4,4 +4,4 @@ The SmartFan IoT project controls a CPU fan's speed using MQTT. It uses a DHT11 
 
 I describe the project in video at below (in Turkish)
 
-[![Watch the video]([https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ](https://www.youtube.com/watch?v=jAKeteho8II))
+[![Watch the video](https://img.youtube.com/vi/uFLLfOjc57s/maxresdefault.jpg)](https://youtu.be/uFLLfOjc57s)
